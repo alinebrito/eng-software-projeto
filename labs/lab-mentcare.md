@@ -6,7 +6,7 @@ Este estudo de caso concentra-se nos requisitos de um sistema denominado _Mentca
 
 Este sistema é separado de um sistema de registros de pacientes mais geral, visto que, informações mais específicas devem ser mantidas. Além disso, o sistema deve ser configurado para gerar documentos e relatórios de diferentes tipos, visando garantir que as leis pertinentes à saúde mental sejam respeitadas pela equipe de está atendendo os pacientes.
 
-Este é um sistema crítico de segurança, pois uma falha pode levar a decisões que comprometam a segurança do paciente ou da equipe médica. Existem também considerações importantes de segurança e privacidade que devem ser levadas em consideração no sistema Mentcare.
+Este é um sistema crítico de segurança, pois uma falha pode levar a decisões que comprometam a segurança do paciente ou da equipe médica. Existem também considerações importantes de segurança e privacidade que devem ser levadas em consideração no sistema Mentcare. Por exemplo, o vazamento de dados pode expor pacientes, como ocorreu com a [rede finlandesa de terapia Vastaamo](https://www.bbc.com/portuguese/geral-54698957).
 
 **Tarefa:** Reúna-se com o seu grupo para ler e compreender as funcionalidades e demais características do sistema, que são descritas nas próximas seções.
 
@@ -16,7 +16,7 @@ Este é um sistema crítico de segurança, pois uma falha pode levar a decisões
 
 * **Monitoramento do paciente:** O sistema monitora regularmente os registros dos tratamentos dos pacientes, emitindo alertas caso sejam detectados possíveis problemas. Por exemplo, se um paciente não foi ao médico por algum tempo, um aviso pode ser emitido. Um dos elementos mais importantes do sistema de monitoramento é acompanhar os pacientes que foram submetidos a um tratamento involuntário (isto é, detidos em um hospital sem o seu consentimento). O sistema deve gerenciar os pacientes que foram detidos e garantir que todos os processos legais necessários sejam seguidos e documentados no momento certo.
 
-* **Emissão de relatórios:** O sistema gera relatórios gerenciais mensais mostrando o número de pacientes atendidos em cada clínica, o número de pacientes que entraram e saíram do sistema de atendimento, o número de pacientes internados, os medicamentos prescritos e seus custos, etc.
+* **Emissão de relatórios:** O sistema gera relatórios gerenciais mensais, mostrando o número de pacientes atendidos em cada clínica, o número de pacientes que entraram e saíram do sistema de atendimento, o número de pacientes internados, os medicamentos prescritos e seus custos, etc.
 
 ## Usuários:
 
@@ -65,7 +65,7 @@ Lembre-se que apesar de escritos pelos desenvolvedores do sistema, casos de uso 
 
 # PASSO 4: Descrevendo os casos de uso
 
-Escolha e detalhe pelo menos dois casos de uso identificados, incluindo precondições, o fluxo normal e as extensões, se existirem.
+Escolha e detalhe pelo menos quatro casos de uso identificados, incluindo precondições, o fluxo normal e as extensões, se existirem.
 
 # PASSO 5: Criando o diagrama de casos de uso
 
