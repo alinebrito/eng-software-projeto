@@ -1,4 +1,4 @@
-# LAB: Estudo de Caso - Descrevendo Casos de Uso de Um Sistema de Apoio à Saúde Mental
+# LAB: Estudo de Caso - Descrevendo Casos de Uso de um Sistema de Apoio à Saúde Mental
 
 Este estudo de caso concentra-se nos requisitos de um sistema denominado _Mentcare_. É comum o uso deste tipo de sistema, por exemplo, em hospitais do Reino Unido e Escócia. O mesmo é utilizado em clínicas que atendem pessoas com transtornos mentais, registrando detalhes das consultas e condições dos pacientes.
 
@@ -42,11 +42,11 @@ Quatro tipos de usuários podem utilizar o sistema _Mentcare_:
 
 Consulte a [Seção 3.4](https://engsoftmoderna.info/cap3.html#casos-de-uso) do livro de Engenharia de Software Moderna sobre Casos de Uso e o material disponível no Canvas da disciplina.
 
-# PASSO 3: Identificando os casos de uso do sistema Mentcare
+# PASSO 3: Identificando os casos de uso
 
 Converse com o seu grupo para listar os **principais casos de uso** do sistema. 
 
-Considerando que já identificamos os atores dos sistema, podemos utilizar um conjunto de perguntas como guia para a elaboração dos casos de uso [1]: 
+Considerando que já identificamos os atores dos sistema, podemos utilizar um conjunto de perguntas como guia para a elaboração dos casos de uso: 
 
 * Quem é(são) o(s) ator(es) primário(s) e o(s) ator(es) secundário(s)?
 * Quais são as metas do ator?
@@ -99,4 +99,11 @@ textual de um caso de uso; é aí que reside o valor real da técnica". Portanto
 Neste passo, você deve adicionar os relacionamentos do diagrama. Lembre-se de adicionar um **retângulo** para delimitar o espaço do sistema.
 
 
+## Referências
 
+
+[Engenharia de Software Moderna](https://engsoftmoderna.info/cap3.html). Marco Tulio Valente. Capítulo 3 - Requisitos.
+
+[Engenharia de Software](https://www.amazon.com.br/Engenharia-software-Ian-Sommerville/dp/8579361087). Ian Sommerville. 10ª edição. Capítulo 4 - Engenharia de Requisitos.
+
+Software Engineering. Ian Sommerville. [Mentcare: A mental health support system](https://software-engineering-book.com/case-studies/mentcare/). Acesso em Fervereiro/2023.
