@@ -85,6 +85,3 @@ Engenharia de Software - Uma abordagem Profissional. 8ª ed. Roger Pressman, Bru
 - Capítulo 6 - Padrões de Projeto
 - Capítulo 5.3 - Ocultamento de Informação
 - Capítulo 9 - Refactoring
-
-
-
