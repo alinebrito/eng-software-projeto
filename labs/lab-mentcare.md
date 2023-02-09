@@ -99,6 +99,10 @@ textual de um caso de uso; é aí que reside o valor real da técnica". Portanto
 Neste passo, você deve adicionar os relacionamentos do diagrama. Lembre-se de adicionar um **retângulo** para delimitar o espaço do sistema.
 
 
+# Entrega
+
+Ao final da aula, cada grupo deve mostrar os casos de uso identificados, assim como a justificativa para cada um deles. Vamos comparar os resultados e discutir as soluções propostas para respeitar os requisitos de segurança e privacidade.
+
 ## Referências
 
 
