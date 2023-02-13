@@ -6,13 +6,13 @@ Atingimos a independência funcional desenvolvendo módulos com função única 
 
 # Refatoração: Extract Method
 
-"Refactorings são transformações de código que melhoram a manutenibilidade de um sistema, mas sem afetar o seu funcionamento."[1]
+Refactorings são transformações de código, visando, por exemplo, melhorar a manutenibilidade de um sistema.
 
 Observe os trechos de código a seguir. Para cada um deles, extraia o código comentado com a palavra "extrair" para novo método.
 
 a) 
 
-``java
+```java
 class A {
   void f() {
     int x = 10
@@ -20,11 +20,11 @@ class A {
     print x;   // extrair
   }
 }
-``
+```
 
 b) 
 
-``java
+```java
 class A {
   void f() {
     int x = 10
@@ -32,11 +32,11 @@ class A {
     print x; // extrair
   }
 }
-``
+```
 
 c)
 
-``java
+```java
 class A {
   void f() {
     int x = 10
@@ -46,11 +46,11 @@ class A {
     ...
   }
 }
-``
+```
 
 d)
 
-``java
+```java
 class A {
   void f() {
     int x = 10
@@ -61,13 +61,13 @@ class A {
     ...
   }
 }
-``
+```
 
 
 ## Referências
 
-[1] Engenharia de Software - Uma abordagem Profissional. 8ª ed. Roger Pressman, Bruce Maxim. 
+Engenharia de Software - Uma abordagem Profissional. 8ª ed. Roger Pressman, Bruce Maxim. 
 - Capítulo 12.3 - Conceitos de Projeto. 
 
-[2] [Engenharia de Software Moderna](https://engsoftmoderna.info). Marco Tulio Valente. 
+[Engenharia de Software Moderna](https://engsoftmoderna.info). Marco Tulio Valente. 
 - Capítulo 9 - Refactoring
