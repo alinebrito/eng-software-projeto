@@ -1,4 +1,4 @@
-# LAB: Revisando Conceitos Básicos de Projeto de Software (Parte 1)
+# LAB: Revisando Conceitos Básicos de Projeto de Software - Parte 1
 
 # Abstração
 
@@ -69,19 +69,10 @@ float sin_or_cos(double x, int op) {
 }
 ```
 
-# Independência Funcional
-
-Atingimos a independência funcional desenvolvendo módulos com função única e com aversão a interação excessiva. Por que devemos nos esforçar para criar módulos independentes? Pense e discuta as vantagens de respeitar este princípio.
-
-
 ## Referências
 
 Engenharia de Software - Uma abordagem Profissional. 8ª ed. Roger Pressman, Bruce Maxim. 
 - Capítulo 12.3 - Conceitos de Projeto. 
-- Capítulo 16 - Projeto Baseado em Padrões
-
 
 [Engenharia de Software Moderna](https://engsoftmoderna.info). Marco Tulio Valente. 
-- Capítulo 6 - Padrões de Projeto
-- Capítulo 5.3 - Ocultamento de Informação
-- Capítulo 9 - Refactoring
+- Capítulo 5 - Princípios de Projeto
