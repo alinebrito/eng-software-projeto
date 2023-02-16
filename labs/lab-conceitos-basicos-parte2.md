@@ -1,4 +1,4 @@
-# LAB: Revisando Conceitos Básicos de Projeto de Software - Parte 2
+# LAB: Revisando Conceitos Básicos de Projeto de Software - Independência Funcional e Refatoração
 
 # Independência Funcional
 
