@@ -86,14 +86,14 @@ class PrincipioDemeter {
     ...
   }
 
-  void m1(T2 p) {  // método que segue Demeter
-    f1();           // caso 1: própria classe
-    p.f2();         // caso 2: parâmetro
-    new T3().f3();  // caso 3: criado pelo método
-    attr.f4();      // caso 4: atributo da classe
+  void m1(T2 p) {
+    f1();           
+    p.f2();        
+    new T3().f3();  
+    attr.f4();      
   }
 
-  void m2(T4 p) {  // método que viola Demeter
+  void m2(T4 p) {
     p.getX().getY().getZ().doSomething();
   }
 
