@@ -65,7 +65,7 @@ class A {
 
 # Princípio de Demeter
 
-O Princípio de Demeter defende que um método deve invovar apenas métodos:
+O Princípio de Demeter defende que um método deve invocar apenas métodos:
 
 * de sua própria classe (caso 1)
 
