@@ -1,4 +1,4 @@
-# LAB: Revisando Conceitos Básicos de Projeto de Software - Parte 1
+# LAB: Revisando Conceitos Básicos de Projeto de Software - Abstração, Ocultamento de Informações e Separação de Interesses
 
 # Abstração
 
@@ -69,7 +69,7 @@ float sin_or_cos(double x, int op) {
 }
 ```
 
-## Referências
+# Referências
 
 Engenharia de Software - Uma abordagem Profissional. 8ª ed. Roger Pressman, Bruce Maxim. 
 - Capítulo 12.3 - Conceitos de Projeto. 
