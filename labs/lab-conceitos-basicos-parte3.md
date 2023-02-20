@@ -10,7 +10,6 @@
 2. Após identificar as refatorações, compare os seus resultados com [o gabarito](https://github.com/alinebrito/composite-refactoring-catalog/blob/main/results/oracle/eclipse/vert.x/results/decomposition_extract_method/view/subgraph_atomic_5.md). Discuta sobre os desafios de visualizar mudanças em códigos com refatorações utilizando o "diff" do GitHub. 
 
 
-
 # Referências
 
 [1] Engenharia de Software - Uma abordagem Profissional. 8ª ed. Roger Pressman, Bruce Maxim. 

@@ -9,3 +9,6 @@ Repositório para atividades práticas e teóricas da disciplina Projeto de Soft
 
 [LAB03](labs/lab-conceitos-basicos-parte2.md)
 : Revisando Conceitos de Projeto de Software - Independência Funcional, Refatoração, e Princípio de Demeter
+
+[LAB04](labs/lab-conceitos-basicos-parte3.md)
+: Revisando Conceitos de Projeto de Software - Refatoração & Compreensão de Código
