@@ -13,4 +13,4 @@ Repositório para atividades práticas e teóricas da disciplina Projeto de Soft
 [LAB04](labs/lab-conceitos-basicos-parte3.md)
 : Revisando Conceitos de Projeto de Software - Refatoração & Compreensão de Código
 
-[LAB05]: Pesquisando frameworks MVC populares
+[LAB05](labs/lab-mvc-framework.md): Pesquisando frameworks MVC populares
