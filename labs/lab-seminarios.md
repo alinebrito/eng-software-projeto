@@ -1,4 +1,4 @@
-# LAB: Tópicos e pesquisas recentes em Manutenção, Evolução e Projeto de Software
+# LAB: Pesquisando Tópicos e Pesquisas Recentes em Manutenção, Evolução e Projeto de Software
 
 Neste laboratório prático vamos discutir artigos e tópicos relevantes da área de Projeto de Software.
 
@@ -14,7 +14,7 @@ Existem trabalhos relevantes e interessantes sendo publicados em diversas confer
 
 * [Empirical Software Engineering (EMSE)](https://www.springer.com/journal/10664)
 
-* [Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)
+* [Journal of Software: Evolution and Process (JSEP)](https://onlinelibrary.wiley.com/journal/20477481)
 
 * International Conference on Software Analysis, Evolution and Reengineering (SANER): [2023](https://saner2023.must.edu.mo/), [2022](https://saner2022.uom.gr/), [edições anteriores](https://ieeexplore.ieee.org/xpl/conhome/1831544/all-proceedings).
 
