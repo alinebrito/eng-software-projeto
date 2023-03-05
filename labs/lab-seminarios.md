@@ -1,4 +1,4 @@
-# LAB: Pesquisando Tópicos e Pesquisas Recentes em Manutenção, Evolução e Projeto de Software
+# LAB: Tópicos e Pesquisas Recentes em Manutenção, Evolução e Projeto de Software
 
 Neste laboratório prático vamos discutir artigos e tópicos relevantes da área de Projeto de Software.
 
@@ -30,20 +30,9 @@ Existem trabalhos relevantes e interessantes sendo publicados em diversas confer
 
   * Workshop on Software Visualization, Evolution and Maintenance (VEM): [2022](https://vemworkshop.github.io/vem2022/), [2021](https://vemworkshop.github.io/vem2021/).
 
+Busque por pesquisas recentes envolvendo temas do seu interesse. 
 
-Após escolher o seu tema, responda o fórum disponível no Canvas, informando:
-
-* Nome dos integrantes do grupo
-
-* Título do trabalho
-
-* Link para o trabalho
-
-Dica: 
-
-* Busque por pesquisas recentes envolvendo temas do seu interesse.
-
-* Lembre-se de verificar as respostas anteriores do fórum. **Cada grupo deve escolher um tema distinto**.
+**Entrega:** Após escolher o seu tema, responda o fórum disponível no Canvas, informando: nome dos integrantes do grupo, título do trabalho, link para o trabalho. Lembre-se de verificar as respostas anteriores do fórum. **Cada grupo deve escolher um tema distinto**.
 
 ## Passo 2: Preparação para Apresentação
 
