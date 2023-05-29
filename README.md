@@ -16,3 +16,8 @@ Repositório para atividades práticas e teóricas da disciplina Projeto de Soft
 [LAB05](labs/lab-mvc-framework.md): Pesquisando frameworks MVC populares
 
 [LAB06](labs/lab-seminarios.md): Tópicos e Pesquisas Recentes em Manutenção, Evolução e Projeto de Software
+
+[LAB07](labs/lab-mapeamento-oo.md): Mapeamento de objetos para o modelo relacional
+
+[LAB08](labs/lab-padroes-projeto.md): Padrões de Projeto
+
