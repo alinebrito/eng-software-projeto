@@ -1,4 +1,4 @@
-# LAB: Revisando Conceitos Básicos de Projeto de Software - Independência Funcional,  Refatoração e Princípio de Demeter
+# LAB: Revisando Conceitos Básicos de Projeto de Software - Independência Funcional,  Refatoração e Coesão
 
 # Independência Funcional
 
