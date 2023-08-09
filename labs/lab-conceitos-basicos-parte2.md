@@ -63,42 +63,19 @@ class A {
 }
 ```
 
-# Princípio de Demeter
+# Coesão
 
-O Princípio de Demeter defende que um método deve invocar apenas métodos:
-
-* de sua própria classe (caso 1)
-
-* de objetos passados como parâmetros (caso 2)
-
-* de objetos criados pelo próprio método (caso 3)
-
-* de atributos da classe do método (caso 4)
-
-Observe o código abaixo e idenfique cada caso, assim como, o trecho que viola este princípio.
+A função abaixo possui um problema de coesão, isto é, ele implementa mais de uma funcionalidade. Como você resolveria este problema?
 
 ```java
-class PrincipioDemeter {
-
-  T1 attr;
-
-  void f1() { 
-    ...
-  }
-
-  void m1(T2 p) {
-    f1();           
-    p.f2();        
-    new T3().f3();  
-    attr.f4();      
-  }
-
-  void m2(T4 p) {
-    p.getX().getY().getZ().doSomething();
-  }
-
+float sin_or_cos(double x, int op) {
+  if (op == 1)
+    "calcula e retorna seno de x"
+  else
+    "calcula e retorna cosseno de x"
 }
 ```
+
 
 # Referências
 
