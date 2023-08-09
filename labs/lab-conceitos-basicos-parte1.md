@@ -56,17 +56,7 @@ class Estacionamento {
 }  
 ```
 
-# Coesão
 
-A função abaixo possui um problema de coesão, isto é, ele implementa mais de uma funcionalidade. Como você resolveria este problema?
-
-```java
-float sin_or_cos(double x, int op) {
-  if (op == 1)
-    "calcula e retorna seno de x"
-  else
-    "calcula e retorna cosseno de x"
-}
 ```
 
 # Referências
